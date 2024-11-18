@@ -1,6 +1,5 @@
 const d = new Date();
 let hour = d.getHours();
-hour = 8;
 let greetingText = document.getElementById("greeting-text");
 if (hour < 12) {
 
